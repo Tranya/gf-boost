@@ -12,7 +12,7 @@ A userscript for [Google Fonts](https://fonts.google.com/): adds italic and weig
 * **Italic:** *`I`* button and `I` hotkey. Dual-style view (`Show Upright & Italic`, `Shift+I`). Hold `Shift` and hover a card to preview italic.
 * **Weight:** Picker and slider (100–1000). Hotkeys `W` / `Shift+W`.
 * **Missing styles:** Grayed-out cards showing the closest available weight and style gaps. Optional kaomojis.
-* **Cyrillic ratings:** Quality marks (good/so-so/bad) from "Cyrillic on Google Fonts" reviews on [type.today journal](type.today/journal) and from script authors.
+* **Cyrillic ratings:** Quality marks (good/so-so/bad) from "Cyrillic on Google Fonts" reviews on [type.today journal](https://type.today/journal) and from script authors.
 * **Interface:** Collapsed Knowledge articles, icon-only layout toggles, reordered filters, and script settings reset via "Reset all".
 
 ## Font Pages
