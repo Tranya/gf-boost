@@ -4,7 +4,7 @@
 
 <p align="center"><a href="README.md">English version</a> · <a href="CHANGELOG.md">Список изменений</a></p>
 
-Юзерскрипт для [Google Fonts](https://fonts.google.com/): расширяет каталог, добавляет курсив и насыщенность для карточек, оценки кириллицы, фичи Опентайпа и точную настройку осей.
+Юзерскрипт для [Google Fonts](https://fonts.google.com/): расширяет каталог, добавляет курсив и насыщенность для карточек на главной, оценки кириллицы, фичи Опентайпа и точную настройку осей.
 <p align="center"><img src="assets/screenshots.png" width="512"></p>
 
 ## Каталог
