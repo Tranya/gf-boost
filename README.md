@@ -45,4 +45,8 @@ Tell us what is missing in the script: [open an issue](https://github.com/Tranya
 
 ## License
 
-[GPL-3.0-or-later](LICENSE). Made by Dmitry Sivukhin, Rustam Mushraipov, Magomed Vagabov.
+[GPL-3.0-or-later](LICENSE). 
+
+Made by Dmitry Sivukhin, Rustam Mushraipov, Magomed Vagabov.
+
+Not affiliated with or endorsed by Google or type.today. Google Fonts is a trademark of Google LLC.
