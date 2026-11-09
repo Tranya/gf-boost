@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/screenshots.png" width="768"></p>
 <p align="center"><a href="README.ru.md">Читать на русском</a> · <a href="CHANGELOG.md">Changelog</a></p>
 
-A userscript for [Google Fonts](https://fonts.google.com/): adds italic and weight previews on main page, Cyrillic quality ratings, OpenType features, and axis controls.
+A userscript for [Google Fonts](https://fonts.google.com/): adds italic and weight previews on main page, Cyrillic quality ratings, OpenType features, and more axis controls on the specimen pages.
 
 ## Catalog
 
