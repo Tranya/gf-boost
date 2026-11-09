@@ -22,6 +22,8 @@ A userscript for [Google Fonts](https://fonts.google.com/): adds italic and weig
 * **Axis stops:** Snap-to-stop magnetic behavior for named font instances.
 * **Sticky preview:** Stays in view while scrolling settings. Proper `lang` attribute markup.
 
+Try it on [Playfair](https://fonts.google.com/specimen/Playfair).
+
 ## URL Parameters
 
 State syncs via the `gfb` parameter (e.g., `gfb=ri,700` or `gfb=o24,smcp,-liga`).
