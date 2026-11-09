@@ -1,11 +1,8 @@
-<p align="center"><img src="assets/icon.svg" width="96" height="96" alt="Логотип GF Boost"></p>
-
-<h1 align="center">GF Boost</h1>
+<p align="center"><img src="assets/screenshots.png" width="768"></p>
 
 <p align="center"><a href="README.md">English version</a> · <a href="CHANGELOG.md">Список изменений</a></p>
 
 Юзерскрипт для [Google Fonts](https://fonts.google.com/): добавляет курсив и насыщенность для карточек на главной, оценки кириллицы, фичи Опентайпа и точную настройку осей.
-<p align="center"><img src="assets/screenshots.png" width="768"></p>
 
 ## Каталог
 
